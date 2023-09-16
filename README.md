@@ -9,9 +9,7 @@ N/A
 
 ## Usage
 
-To use this study guide open the to the console using Chrome dev tools and this will tell you which subject to start studying
-Provide instructions and examples for use. Include screenshots as needed.
-
+To use this study guide open the to the console using Chrome dev tools you can do this by right clicking on the webpage and then going to the inspect option. The console will tell you which subject to start studying.
 
 ## Credits
 
